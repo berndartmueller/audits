@@ -6,6 +6,16 @@
 | **Auditor** | Bernd Artmüller ([@berndartmueller](https://twitter.com/berndartmueller)) |
 | **Status**  | **Final**                                                                 |
 
+# Table of Contents
+
+- [Scope](#scope)
+- [License](#license)
+- [Disclaimer](#disclaimer)
+- [Severity classification](#severity-classification)
+- [Summary](#summary)
+- [Findings](#findings)
+- [Appendix](#appendix)
+
 # Scope
 
 The review focused on the commit hash [`c8a068f0f12b1ad41e1b7dc97976a0dd7ae0e464`](https://github.com/jbx-protocol/juice-v3-migration/tree/c8a068f0f12b1ad41e1b7dc97976a0dd7ae0e464) of the public https://github.com/jbx-protocol/juice-v3-migration GitHub repository. The list of files in scope can be found in [Appendix 1](#Appendix-1).
@@ -34,21 +44,21 @@ _Copyright of this report remains with the author._
 
 The audited contracts contain **0 critical** issues, **0 high severity** issues, **1 medium** severity issue, **6 minor** issues and **6 informational** issues.
 
-| #   | Title                                                                                                                                                                                                | Severity         | Status      |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------- |
-| 1   | [Locked V1 tokens are not considered and can prevent migration](#1-Locked-V1-tokens-are-not-considered-and-can-prevent-migration-)                                                                   | ![Medium]        | ![resolved] |
-| 2   | [The total supply calculation in `JBV3Token.totalSupply` can potentially revert](#2-The-total-supply-calculation-in-JBV3TokentotalSupply-can-potentially-revert-)                                    | ![minor]         | ![ack]      |
-| 3   | [The total supply calculation in `JBV3Token.totalSupply` is vulnerable to overflows](#3-The-total-supply-calculation-in-JBV3TokentotalSupply-is-vulnerable-to-overflows-)                            | ![minor]         | ![ack]      |
-| 4   | [Migrating V1 and V2 tokens is susceptible to overflows leading to incorrectly minted V3 tokens](#4-Migrating-V1-and-V2-tokens-is-susceptible-to-overflows-leading-to-incorrectly-minted-V3-tokens-) | ![minor]         | ![ack]      |
-| 5   | [Deploying and attaching a misconfigured V3 token is irreversible](#5-Deploying-and-attaching-a-misconfigured-V3-token-is-irreversible-)                                                             | ![minor]         | ![ack]      |
-| 6   | [Migrating V2 tokens with a custom token contract is potentially unsafe](#6-Migrating-V2-tokens-with-a-custom-token-contract-is-potentially-unsafe-)                                                 | ![minor]         | ![resolved] |
-| 7   | [Erroneous migration of either V1 or V2 tokens will prevent migration of the other](#7-Erroneous-migration-of-either-V1-or-V2-tokens-will-prevent-migration-of-the-other-)                           | ![minor]         | ![ack]      |
-| 8   | [Deprecated import for OpenZeppelin's `ERC20Permit`](#8-Deprecated-import-for-OpenZeppelin’s-ERC20Permit-)                                                                                           | ![Informational] |             |
-| 9   | [Misleading comments](#9-Misleading-comments-)                                                                                                                                                       | ![Informational] |             |
-| 10  | [Migrating `0` tokens will emit a `Transfer` event](#10-Migrating-0-tokens-will-emit-a-Transfer-event-)                                                                                              | ![Informational] |             |
-| 11  | [Event parameters are not indexed](#11-Event-parameters-are-not-indexed-)                                                                                                                            | ![Informational] |             |
-| 12  | [Use `calldata` instead of `memory` for function parameters](#12-Use-calldata-instead-of-memory-for-function-parameters-)                                                                            | ![Informational] |             |
-| 13  | [Spelling issues](#13-Spelling-issues-)                                                                                                                                                              | ![Informational] |             |
+| #   | Title                                                                                                                                                                                                  | Severity         | Status      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------- |
+| 1   | [Locked V1 tokens are not considered and can prevent migration](#1-locked-v1-tokens-are-not-considered-and-can-prevent-migration--))                                                                   | ![Medium]        | ![resolved] |
+| 2   | [The total supply calculation in `JBV3Token.totalSupply` can potentially revert](#2-the-total-supply-calculation-in-jbv3tokentotalsupply-can-potentially-revert--))                                    | ![minor]         | ![ack]      |
+| 3   | [The total supply calculation in `JBV3Token.totalSupply` is vulnerable to overflows](#3-the-total-supply-calculation-in-jbv3tokentotalsupply-is-vulnerable-to-overflows--))                            | ![minor]         | ![ack]      |
+| 4   | [Migrating V1 and V2 tokens is susceptible to overflows leading to incorrectly minted V3 tokens](#4-migrating-v1-and-v2-tokens-is-susceptible-to-overflows-leading-to-incorrectly-minted-v3-tokens--)) | ![minor]         | ![ack]      |
+| 5   | [Deploying and attaching a misconfigured V3 token is irreversible](#5-deploying-and-attaching-a-misconfigured-v3-token-is-irreversible--))                                                             | ![minor]         | ![ack]      |
+| 6   | [Migrating V2 tokens with a custom token contract is potentially unsafe](#6-migrating-v2-tokens-with-a-custom-token-contract-is-potentially-unsafe--))                                                 | ![minor]         | ![resolved] |
+| 7   | [Erroneous migration of either V1 or V2 tokens will prevent migration of the other](#7-erroneous-migration-of-either-v1-or-v2-tokens-will-prevent-migration-of-the-other--))                           | ![minor]         | ![ack]      |
+| 8   | [Deprecated import for OpenZeppelin's `ERC20Permit`](#8-deprecated-import-for-openzeppelins-erc20permit-))                                                                                             | ![Informational] |             |
+| 9   | [Misleading comments](#9-misleading-comments-))                                                                                                                                                        | ![Informational] |             |
+| 10  | [Migrating `0` tokens will emit a `Transfer` event](#10-migrating-0-tokens-will-emit-a-transfer-event-))                                                                                               | ![Informational] |             |
+| 11  | [Event parameters are not indexed](#11-event-parameters-are-not-indexed-))                                                                                                                             | ![Informational] |             |
+| 12  | [Use `calldata` instead of `memory` for function parameters](#12-use-calldata-instead-of-memory-for-function-parameters-))                                                                             | ![Informational] |             |
+| 13  | [Spelling issues](#13-spelling-issues-))                                                                                                                                                               | ![Informational] |             |
 
 # Findings
 
