@@ -28,3 +28,9 @@ I'm available for web3 security consulting and auditing. Please reach out to me 
 | [Sturdy](https://code4rena.com/contests/2022-05-sturdy-contest)                                  | May 2022      | Code4rena | 2nd 🥈 | [Link](https://code4rena.com/reports/2022-05-sturdy)   |
 | [Enso Finance](https://code4rena.com/contests/2022-05-enso-finance-contest)                      | May 2022      | Code4rena | 4th    |                                                        |
 | [Maple Finance](https://code4rena.com/contests/2022-03-maple-finance-contest)                    | March 2022    | Code4rena | 5th    | [Link](https://code4rena.com/reports/2022-03-maple)    |
+
+## Certifications
+
+| Certification                                         |                                                                                                                                                                                                                                                                |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Crypto Currency Security Standard Auditor (CCSSA)** | [<img alt="Crypto Currency Security Standard Auditor (CCSSA)" width="200px" src="https://cfour.wpenginepowered.com/wp-content/uploads/2022/07/CCSSA_Color_Dark_web-300x90.png" />](https://cryptoconsortium.org/lookup/?token=d051cc&certification_code=CCSSA) |
