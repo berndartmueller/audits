@@ -6,9 +6,10 @@ I'm available for web3 security consulting and auditing. Please reach out to me 
 
 ## Engagements
 
-| Project               | Client                              | Date         | Report                                                                                                                   |
-| --------------------- | ----------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Juicebox V3 Migration | [Juicebox](https://juicebox.money/) | January 2023 | [GitHub](https://github.com/berndartmueller/audits/blob/main/audits/Juicebox/2023-01_Juice_V3_Migration_Audit_Report.md) |
+| Project                       | Client                                       | Date          | Report                                                                                                                                   |
+| ----------------------------- | -------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Reunit Wallet - Token Presale | [Reunit Wallet](https://everywhere.finance/) | February 2023 | [GitHub](https://github.com/berndartmueller/audits/blob/main/audits/Reunit%20Wallet/2023-02_Reunit_Wallet_Token_Presale_Audit_Report.md) |
+| Juicebox V3 Migration         | [Juicebox](https://juicebox.money/)          | January 2023  | [GitHub](https://github.com/berndartmueller/audits/blob/main/audits/Juicebox/2023-01_Juice_V3_Migration_Audit_Report.md)                 |
 
 ## Public Audit Contests
 
