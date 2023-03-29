@@ -1,8 +1,10 @@
 # Audits
 
-This is a public collection of (solo) security audits conducted by me.
+This is a public profile of my adventure as a blockchain and smart contract security auditor.
 
-I'm available for web3 security consulting and auditing. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) if you're interested.
+Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), top warden & judge at [Code4rena](https://code4rena.com/), and a watson at [Sherlock](https://app.sherlock.xyz/).
+
+I'm available for web3 security consulting and private audits. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd0491](https://t.me/bernd0491)) if you're interested.
 
 ## Engagements
 
@@ -33,6 +35,13 @@ I'm available for web3 security consulting and auditing. Please reach out to me 
 | [Sturdy](https://code4rena.com/contests/2022-05-sturdy-contest)                                  | May 2022      | Code4rena | 2nd 🥈 | [Link](https://code4rena.com/reports/2022-05-sturdy)   |
 | [Enso Finance](https://code4rena.com/contests/2022-05-enso-finance-contest)                      | May 2022      | Code4rena | 4th    |                                                        |
 | [Maple Finance](https://code4rena.com/contests/2022-03-maple-finance-contest)                    | March 2022    | Code4rena | 5th    | [Link](https://code4rena.com/reports/2022-03-maple)    |
+
+## Expertise
+
+| Expertise           | Proficiency |
+| ------------------- | ----------- |
+| **Solidity/EVM**    | ⚡⚡⚡⚡⚡  |
+| **CosmWasm (Rust)** | ⚡⚡⚡      |
 
 ## Certifications
 
