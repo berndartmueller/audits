@@ -18,6 +18,7 @@ I'm available for web3 security consulting and private audits. Please reach out 
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
+| [Y2K](https://app.sherlock.xyz/audits/contests/57)                                               | March 2023    | Sherlock  | 4th    | [Link](https://app.sherlock.xyz/audits/contests/57)    |
 | [Blueberry](https://app.sherlock.xyz/audits/contests/41)                                         | February 2023 | Sherlock  | 3rd 🥉 | [Link](https://app.sherlock.xyz/audits/contests/41)    |
 | [Drips Protocol](https://code4rena.com/contests/2023-01-drips-protocol-contest)                  | February 2023 | Code4rena | 3rd 🥉 | [Link](https://code4rena.com/reports/2023-01-drips)    |
 | [Ajna](https://app.sherlock.xyz/audits/contests/32)                                              | January 2023  | Sherlock  | 3rd 🥉 | [Link](https://app.sherlock.xyz/audits/contests/32)    |
