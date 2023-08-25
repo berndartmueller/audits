@@ -25,6 +25,7 @@ I'm available for web3 security consulting and private audits. Please reach out 
 | [Ajna](https://app.sherlock.xyz/audits/contests/32)                                              | January 2023  | Sherlock  | 3rd 🥉 | [Link](https://app.sherlock.xyz/audits/contests/32)    |
 | [UXD Protocol](https://app.sherlock.xyz/audits/contests/33)                                      | January 2023  | Sherlock  | 4th    | [Link](https://app.sherlock.xyz/audits/contests/33)    |
 | [Debt DAO](https://code4rena.com/contests/2022-11-debt-dao-contest)                              | November 2022 | Code4rena | 5th    | [Link](https://code4rena.com/reports/2022-11-debtdao)  |
+| [Chainlink Staking v0.1](https://code4rena.com/contests/2022-11-chainlink-staking-contest)       | November 2022 | Code4rena | 5th    |                                                        |
 | [Mycelium](https://app.sherlock.xyz/audits/contests/7)                                           | October 2022  | Sherlock  | 4th    | [Link](https://app.sherlock.xyz/audits/contests/7)     |
 | [Mover](https://app.sherlock.xyz/audits/contests/10)                                             | October 2022  | Sherlock  | 2nd 🥈 | [Link](https://app.sherlock.xyz/audits/contests/10)    |
 | [Astaria](https://app.sherlock.xyz/audits/contests/8) - As part of the Secureum team with Rajeev | October 2022  | Sherlock  | 1st 🥇 | [Link](https://app.sherlock.xyz/audits/contests/8)     |
