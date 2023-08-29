@@ -20,6 +20,7 @@ I'm available for web3 security consulting and private audits. Please reach out 
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------------------ |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)                           | July 2023     | CodeHawks | 1st 🥇 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
 | [Bond Options](https://audits.sherlock.xyz/contests/99)                                          | July 2023     | Sherlock  | 2nd 🥈 | [Link](https://app.sherlock.xyz/audits/contests/99)                |
+| [Symmetrical](https://audits.sherlock.xyz/contests/85)                                           | June 2023     | Sherlock  | 6th    | [Link](https://app.sherlock.xyz/audits/contests/85)                |
 | [Y2K](https://app.sherlock.xyz/audits/contests/57)                                               | March 2023    | Sherlock  | 4th    | [Link](https://app.sherlock.xyz/audits/contests/57)                |
 | [Blueberry](https://app.sherlock.xyz/audits/contests/41)                                         | February 2023 | Sherlock  | 3rd 🥉 | [Link](https://app.sherlock.xyz/audits/contests/41)                |
 | [Drips Protocol](https://code4rena.com/contests/2023-01-drips-protocol-contest)                  | February 2023 | Code4rena | 3rd 🥉 | [Link](https://code4rena.com/reports/2023-01-drips)                |
