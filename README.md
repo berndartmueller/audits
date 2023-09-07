@@ -1,10 +1,18 @@
 # Audits
 
-This is a public profile of my adventure as a blockchain and smart contract security auditor.
+This is a public profile of my adventure as a blockchain and smart contract security researcher.
 
-Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), top warden & judge at [Code4rena](https://code4rena.com/), and a watson at [Sherlock](https://app.sherlock.xyz/).
+Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), senior auditor at [trust-security.xyz](https://www.trust-security.xyz/team), security researcher at [Spearbit](https://spearbit.com/), top warden & judge at [Code4rena](https://code4rena.com/), and a senior watson at [Sherlock](https://app.sherlock.xyz/).
 
 I'm available for web3 security consulting and private audits. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd0491](https://t.me/bernd0491)) if you're interested.
+
+## Expertise
+
+| Expertise           | Proficiency |
+| ------------------- | ----------- |
+| **Solidity/EVM**    | ⚡⚡⚡⚡⚡  |
+| **CosmWasm (Rust)** | ⚡⚡⚡      |
+| **Cosmos SDK (Go)** | ⚡⚡⚡      |
 
 ## Engagements
 
@@ -41,15 +49,16 @@ I'm available for web3 security consulting and private audits. Please reach out 
 | [Enso Finance](https://code4rena.com/contests/2022-05-enso-finance-contest)                      | May 2022      | Code4rena | 4th    |                                                                    |
 | [Maple Finance](https://code4rena.com/contests/2022-03-maple-finance-contest)                    | March 2022    | Code4rena | 5th    | [Link](https://code4rena.com/reports/2022-03-maple)                |
 
-## Expertise
+## Security Review Portfolio
 
-| Expertise           | Proficiency |
-| ------------------- | ----------- |
-| **Solidity/EVM**    | ⚡⚡⚡⚡⚡  |
-| **CosmWasm (Rust)** | ⚡⚡⚡      |
+Soon...
 
 ## Certifications
 
 | Certification                                         |                                                                                                                                                                                                                                                                |
 | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Crypto Currency Security Standard Auditor (CCSSA)** | [<img alt="Crypto Currency Security Standard Auditor (CCSSA)" width="200px" src="https://cfour.wpenginepowered.com/wp-content/uploads/2022/07/CCSSA_Color_Dark_web-300x90.png" />](https://cryptoconsortium.org/lookup/?token=d051cc&certification_code=CCSSA) |
+
+## Keywords
+
+#audit #auditor
