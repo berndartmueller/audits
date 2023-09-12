@@ -4,7 +4,7 @@ This is a public profile of my adventure as a blockchain and smart contract secu
 
 Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), senior auditor at [trust-security.xyz](https://www.trust-security.xyz), security researcher at [Spearbit](https://spearbit.com/), top warden & judge at [Code4rena](https://code4rena.com/), and a senior watson at [Sherlock](https://app.sherlock.xyz/).
 
-I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd0491](https://t.me/bernd0491)) if you're interested.
+I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd_42](https://t.me/bernd_42)) if you're interested.
 
 ## Expertise
 
