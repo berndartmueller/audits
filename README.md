@@ -1,8 +1,10 @@
 # Audits
 
-This is a public profile of my adventure as a blockchain and smart contract security researcher.
+This is a public profile of my adventure as an independent blockchain and smart contract security researcher.
 
-Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), senior auditor at [trust-security.xyz](https://www.trust-security.xyz), security researcher at [Spearbit](https://spearbit.com/), top warden & judge at [Code4rena](https://code4rena.com/), and a senior watson at [Sherlock](https://app.sherlock.xyz/).
+Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), senior auditor at [trust-security.xyz](https://www.trust-security.xyz), security researcher at [Spearbit](https://spearbit.com/), top warden & judge at [Code4rena](https://code4rena.com/), and a (prev. senior) watson at [Sherlock](https://app.sherlock.xyz/).
+
+Feel free to check out my Cantina profile for more information and engagements: https://cantina.xyz/u/bernd
 
 I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd_42](https://t.me/bernd_42)) if you're interested.
 
@@ -11,8 +13,9 @@ I'm available for web3 security consulting and private security reviews. Please 
 | Expertise           | Proficiency |
 | ------------------- | ----------- |
 | **Solidity/EVM**    | ⚡⚡⚡⚡⚡  |
-| **CosmWasm (Rust)** | ⚡⚡⚡      |
-| **Cosmos SDK (Go)** | ⚡⚡⚡      |
+| **CosmWasm (Rust)** | ⚡⚡⚡⚡    |
+| **Cosmos SDK (Go)** | ⚡⚡⚡⚡    |
+| **NEAR (Rust)**     | ⚡⚡⚡      |
 
 ## Engagements
 
@@ -55,11 +58,18 @@ I'm available for web3 security consulting and private security reviews. Please 
 
 Soon...
 
+## Bug Bounties
+
+| Project | Vulnerability | Severity | Platform | Report |
+| ------- | ------------- | -------- | -------- | ------ |
+| Soon... |               | Critical |          |        |
+| Soon... |               | Low      |          |        |
+
 ## Certifications
 
-| Certification                                         |                                                                                                                                                                                                                                                                |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Crypto Currency Security Standard Auditor (CCSSA)** | [<img alt="Crypto Currency Security Standard Auditor (CCSSA)" width="200px" src="https://cfour.wpenginepowered.com/wp-content/uploads/2022/07/CCSSA_Color_Dark_web-300x90.png" />](https://cryptoconsortium.org/lookup/?token=d051cc&certification_code=CCSSA) |
+| Certification                                                  |                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Crypto Currency Security Standard Auditor (CCSSA), Expired** | [<img alt="Crypto Currency Security Standard Auditor (CCSSA)" width="200px" src="https://cfour.wpenginepowered.com/wp-content/uploads/2022/07/CCSSA_Color_Dark_web-300x90.png" />](https://cryptoconsortium.org/lookup/?token=d051cc&certification_code=CCSSA) |
 
 ## Keywords
 
