@@ -29,6 +29,7 @@ I'm available for web3 security consulting and private security reviews. Please 
 
 | Contest                                                                                          | Date             | Platform  | Rank   | Report                                                             |
 | ------------------------------------------------------------------------------------------------ | ---------------- | --------- | ------ | ------------------------------------------------------------------ |
+| [ZetaChain](https://code4rena.com/audits/2023-11-zetachain) (Cosmos SDK)                         | December 2023    | Code4rena | 1st 🥇 | [Link](https://code4rena.com/audits/2023-11-zetachain)             |
 | [DittoETH](https://www.codehawks.com/contests/clm871gl00001mp081mzjdlwc)                         | September 2023   | CodeHawks | 3rd 🥉 | [Link](https://www.codehawks.com/report/clm871gl00001mp081mzjdlwc) |
 | [Tokemak](https://audits.sherlock.xyz/contests/101)                                              | July/August 2023 | Sherlock  | 5th    | [Link](https://audits.sherlock.xyz/contests/101)                   |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)                           | July 2023        | CodeHawks | 1st 🥇 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
