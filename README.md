@@ -10,12 +10,12 @@ I'm available for web3 security consulting and private security reviews. Please 
 
 ## Expertise
 
-| Expertise           | Proficiency |
-| ------------------- | ----------- |
-| **Solidity/EVM**    | ⚡⚡⚡⚡⚡  |
-| **CosmWasm (Rust)** | ⚡⚡⚡⚡    |
-| **Cosmos SDK (Go)** | ⚡⚡⚡⚡    |
-| **NEAR (Rust)**     | ⚡⚡⚡      |
+| Expertise           | Proficiency          |
+| ------------------- | -------------------- |
+| **Solidity/EVM**    | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
+| **CosmWasm (Rust)** | ⚡⚡⚡⚡⚡⚡⚡⚡     |
+| **Cosmos SDK (Go)** | ⚡⚡⚡⚡⚡⚡⚡⚡     |
+| **NEAR (Rust)**     | ⚡⚡⚡⚡⚡           |
 
 ## Engagements
 
