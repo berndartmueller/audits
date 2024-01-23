@@ -64,6 +64,8 @@ Soon...
 | Project | Vulnerability | Severity | Platform | Report |
 | ------- | ------------- | -------- | -------- | ------ |
 | Soon... |               | Critical |          |        |
+| Soon... |               | Critical |          |        |
+| Soon... |               | Critical |          |        |
 | Soon... |               | Low      |          |        |
 
 ## Certifications
