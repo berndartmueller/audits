@@ -13,8 +13,8 @@ I'm available for web3 security consulting and private security reviews. Please 
 | Expertise           | Proficiency          |
 | ------------------- | -------------------- |
 | **Solidity/EVM**    | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
-| **CosmWasm (Rust)** | ⚡⚡⚡⚡⚡⚡⚡⚡     |
-| **Cosmos SDK (Go)** | ⚡⚡⚡⚡⚡⚡⚡⚡     |
+| **CosmWasm (Rust)** | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
+| **Cosmos SDK (Go)** | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
 | **NEAR (Rust)**     | ⚡⚡⚡⚡⚡           |
 | **MOVE (SUI)**      | ⚡⚡⚡⚡⚡           |
 
@@ -30,6 +30,7 @@ I'm available for web3 security consulting and private security reviews. Please 
 
 | Contest                                                                                          | Date             | Platform  | Rank                                                                           | Report                                                             |
 | ------------------------------------------------------------------------------------------------ | ---------------- | --------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [Initia Cosmos](https://code4rena.com/audits/2025-02-initia-cosmos) (Cosmos SDK)                 | February 2025    | Code4rena | 1st 🥇                                                                         |                                                                    |
 | [MANTRA Chain](https://code4rena.com/audits/2024-11-mantra-chain) (Cosmos SDK)                   | Dec/Jan 2025     | Code4rena | 1st 🥇                                                                         |                                                                    |
 | [Initia Rollup Modules](https://code4rena.com/audits/2025-01-initia-rollup-modules) (Cosmos SDK) | January 2025     | Code4rena | 1st 🥇 (RadiantLabs Guest)                                                     |                                                                    |
 | [Curvance](https://cantina.xyz/competitions/ac757733-81a4-43c7-8f49-17c5b135cdff)                | Feb/Mar/Apr 2024 | Cantina   | [3rd 🥉](https://cantina.xyz/leaderboard/ac757733-81a4-43c7-8f49-17c5b135cdff) |                                                                    |
