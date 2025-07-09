@@ -23,7 +23,7 @@ I'm available for web3 security consulting and private security reviews. Please 
 | **MOVE (SUI, Aptos)**     | ⚡⚡⚡⚡⚡⚡⚡       |
 | **NEAR**                  | ⚡⚡⚡⚡⚡           |
 
-## Engagements
+## Private Solo Engagements
 
 | Project                       | Client                                       | Date          | Report                                                                                                                                   |
 | ----------------------------- | -------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
