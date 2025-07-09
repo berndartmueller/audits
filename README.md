@@ -11,7 +11,7 @@ Currently, I'm
 - senior auditor at [trust-security.xyz](https://www.trust-security.xyz),
 - and a LSW at [Sherlock](https://app.sherlock.xyz/)
 
-I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd_42](https://t.me/bernd_42)) if you're interested.
+I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@bernd_eth](https://twitter.com/bernd_eth)) or Telegram ([bernd_42](https://t.me/bernd_42)) if you're interested.
 
 ## Expertise
 
