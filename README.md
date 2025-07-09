@@ -2,21 +2,26 @@
 
 This is a public profile of my adventure as an independent blockchain and smart contract security researcher.
 
-Currently, I'm a lead security auditor at [Oak Security](https://www.oaksecurity.io/) (and [Solidified](https://solidified.io)), senior auditor at [trust-security.xyz](https://www.trust-security.xyz), security researcher at [Spearbit](https://spearbit.com/), top warden & judge at [Code4rena](https://code4rena.com/), and a (prev. senior) watson at [Sherlock](https://app.sherlock.xyz/).
+Currently, I'm
 
-Feel free to check out my Cantina profile for more information and engagements: https://cantina.xyz/u/bernd
+- lead security auditor at [Oak Security](https://www.oaksecurity.io/),
+- SR at [Spearbit](https://spearbit.com/),
+- SR at [Zenith](https://www.zenith.security/),
+- 1st 🥇 place (2025) & judge at [Code4rena](https://code4rena.com/),
+- senior auditor at [trust-security.xyz](https://www.trust-security.xyz),
+- and a LSW at [Sherlock](https://app.sherlock.xyz/)
 
 I'm available for web3 security consulting and private security reviews. Please reach out to me on Twitter ([@berndartmueller](https://twitter.com/berndartmueller)) or Telegram ([bernd_42](https://t.me/bernd_42)) if you're interested.
 
 ## Expertise
 
-| Expertise           | Proficiency          |
-| ------------------- | -------------------- |
-| **Solidity/EVM**    | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
-| **CosmWasm (Rust)** | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
-| **Cosmos SDK (Go)** | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
-| **NEAR (Rust)**     | ⚡⚡⚡⚡⚡           |
-| **MOVE (SUI)**      | ⚡⚡⚡⚡⚡           |
+| Expertise                 | Proficiency          |
+| ------------------------- | -------------------- |
+| **Solidity/EVM**          | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
+| **Rust (e.g., CosmWasm)** | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
+| **Go (e.g., Cosmos SDK)** | ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ |
+| **MOVE (SUI, Aptos)**     | ⚡⚡⚡⚡⚡⚡⚡       |
+| **NEAR**                  | ⚡⚡⚡⚡⚡           |
 
 ## Engagements
 
@@ -27,6 +32,16 @@ I'm available for web3 security consulting and private security reviews. Please 
 | Juicebox V3 Migration         | [Juicebox](https://juicebox.money/)          | January 2023  | [GitHub](https://github.com/berndartmueller/audits/blob/main/audits/Juicebox/2023-01_Juice_V3_Migration_Audit_Report.md)                 |
 
 ## Public Audit Contests
+
+### Stats
+
+17 top-3 placements:
+
+- 7x 1st 🥇 places
+- 4x 2nd 🥈 places
+- 6x 3rd 🥉 places
+
+### Contests
 
 | Contest                                                                                          | Date             | Platform  | Rank                                                                           | Report                                                             |
 | ------------------------------------------------------------------------------------------------ | ---------------- | --------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
